@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🌱 I’m currently studying Computing Science at Simon Fraser University
+🌱 I’m a recent graduate from Simon Fraser University with a degree in Computing Science
 
-🔭 Currently working at Dro, doing full-stack engineering of an eccomerce website. 
+🔭 Currently working at Publicis Sapient as a Software Developer Engineer and growing my github repo count
 
 
 <!--
