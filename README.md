@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-🌱 I’m a recent graduate from Simon Fraser University with a degree in Computing Science.
-
 ## About Me
 
-- 👨‍💻 **Role**: Data Engineer 💼💾
-- 🌐 **Tech Stacks**: Azure, Databricks, PySpark 📊🔍
+- 👨‍💻 **Role**: Software Engineer 💼💾
+- 🌐 **Tech Stacks**: Azure, Databricks, PySpark, Typescript, React/Native 📊🔍
 - 🌟 **Passions**: Custom Keyboards ⌨️💖, Web Development 💻🌐, and Embedded Development with Arduino 🤖💡
 
 
