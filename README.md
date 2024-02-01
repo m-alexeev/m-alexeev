@@ -13,12 +13,6 @@
 🔍 It's been an incredible journey, and I can't wait to see where it takes me next!
 
 
-## Let's Connect!
-
-I'm always eager to connect and collaborate on tech and development projects. Whether you share my interests or just want to chat about the latest tech trends, feel free to reach out!
-Looking forward to meeting you in the GitHub community and sharing more of my coding adventures!
-Stay curious, stay coding!🚀
-
 <!--
 **m-alexeev/m-alexeev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
